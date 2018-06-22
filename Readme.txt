@@ -1,2 +1,3 @@
 Thsi is a simple Readme file
-Checking this in QA
+Done with Feature-2
+This is QAed
